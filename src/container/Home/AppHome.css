@@ -1,0 +1,44 @@
+.three{
+  height: 250px;
+  background: #eeeeee;
+  text-align: center;
+  width: auto;
+}
+
+.first{
+  height: auto;
+  width: 30%;
+  margin-left: 2.25%;
+}
+.second{
+  height: auto;
+  width: 30%;
+  margin-left: 3%;
+}
+.third{
+  height: auto;
+  width: 30%;
+  margin-left: 3%;
+}
+.recommend{
+  height: 50px;
+  background: #ffffff;
+  padding-top: 10px;
+}
+.blue{
+  background: #3fcccb;
+  float: left;
+  width: 5px;
+  height: 30px;
+}
+
+.word{
+  float: left;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.hot{
+  width: 100%;
+  height: auto;
+  background-size: cover;
+}

@@ -1,0 +1,143 @@
+.cfirst{
+    height: auto;
+    width: 12.5%;
+    margin-left: 6.25%;
+
+}
+
+.csecond{
+    height: auto;
+    width: 12.5%;
+    margin-left: 6.25%;
+
+}
+
+.cthird{
+    height: auto;
+    width: 12.5%;
+    margin-left: 6.25%;
+}
+
+.cfourth{
+    height: auto;
+    width: 12.5%;
+    margin-left: 6.25%;
+
+}
+
+.cfifth{
+    height: auto;
+    width: 12.5%;
+    margin-left: 6.25%;
+
+}
+
+.desk{
+    height: auto;
+    width: 15%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.bed{
+    height: auto;
+    width: 15%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.chair{
+    height: auto;
+    width: 15%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.table{
+    height: auto;
+    width: 15%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+  
+}
+
+.cupboard{
+    height: auto;
+    width: 15%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+  
+}
+
+.shelf{
+    height: auto;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.sofa{
+    height: auto;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+
+
+}
+.gear{
+    height: auto;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.outdoor{
+    height: auto;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.classify{
+    height: auto;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.next1{
+    height: auto;
+    width: 45%;
+    margin: 2.5% 2.5% 0 2.5%;
+}
+
+.next2{
+    height: auto;
+    width: 45%;
+    margin: 2.5% 2.5% 0 2.5%;
+}
+
+.left{
+    width: 45%;
+    margin: 0 2.5% 0 2.5%;
+    display: inline-block;
+    font-size: 18px;
+
+}
+
+.right{
+    width: 45%;
+    margin: 0 2.5% 0 2.5%;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.store{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+  }
